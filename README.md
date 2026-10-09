@@ -131,7 +131,7 @@ Currently   : Building practical projects and strengthening fundamentals
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=triplePoint3r&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=triplePoint3r&style=for-the-badge&color=grey&label=PROFILE+VIEWS" alt="Profile views" />
 
 <img src ="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050505,50:052e16,100:00ff88&section=footer&reversal=false&text=Stay+curious.+Build+carefully.+Investigate+responsibly&textBg=false&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0" width="100%" alt = "Footer">
 
