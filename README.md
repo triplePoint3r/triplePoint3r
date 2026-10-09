@@ -110,18 +110,6 @@ Currently   : Building practical projects and strengthening fundamentals
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=triplePoint3r&bg_color=050505&color=c9d1d9&line=00ff88&point=ffffff&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph" />
 </a>
 
-</div>
-
-## `achievements`
-
-<div align="center">
-
-<a href="https://github.com/triplePoint3r">
-  <img src="https://github-profile-trophy.vercel.app/?username=triplePoint3r&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="98%" alt="GitHub profile trophies" />
-</a>
-
-</div>
-
 ## `contribution-grid`
 
 <div align="center">
