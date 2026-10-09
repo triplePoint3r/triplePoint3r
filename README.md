@@ -42,14 +42,14 @@ Currently   : Building practical projects and strengthening fundamentals
     <td width="50%" valign="top">
       <h3>🔐 SecureBank</h3>
       <p>A security-focused banking web application exploring authentication, authorization, MFA, rate limiting, and secure application design.</p>
-      <p><strong>Stack:</strong> Python · FastAPI · PostgreSQL · JWT · TOTP</p>
+      <p><strong>Stack:</strong> Python · FastAPI · PostgreSQL · JWT · TOTP</p>     
       <a href="https://github.com/triplePoint3r/AppSecProject">View repository ↗</a>
     </td>
     <td width="50%" valign="top">
       <h3>🔎 Windows Event Log Forensics</h3>
       <p>A digital-forensics project focused on Windows Event Log (EVTX) evidence and a Python GUI workflow.</p>
-      <p><strong>Stack:</strong> Python · PyQt6 · EVTX</p>
-      <p><em>LINK</em></p>
+      <p><strong>Stack:</strong> Python · PyQt6 · EVTX</p>     
+      <a href="https://github.com/triplePoint3r/Super-EVTX-analyzer">View repository ↗</a>
     </td>
   </tr>
   <tr>
