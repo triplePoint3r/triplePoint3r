@@ -106,11 +106,6 @@ Currently   : Building practical projects and strengthening fundamentals
 
 <br/>
 
-<a href="https://github.com/triplePoint3r">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=triplePoint3r&bg_color=050505&color=c9d1d9&line=00ff88&point=ffffff&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph" />
-</a>
-
-## `contribution-grid`
 
 <div align="center">
 
