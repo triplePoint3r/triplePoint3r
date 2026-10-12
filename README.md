@@ -112,25 +112,6 @@ Currently   : Building practical projects and strengthening fundamentals
 <br/>
 
 
-<div align="center">
-
-<!-- The Snake workflow in .github/workflows/snake.yml generates this file. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/triplePoint3r/triplePoint3r/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/triplePoint3r/triplePoint3r/output/github-snake.svg" />
-  <img alt="Animated snake traversing the GitHub contribution graph" src="https://raw.githubusercontent.com/triplePoint3r/triplePoint3r/output/github-snake-dark.svg" width="98%" />
-</picture>
-
-</div>
-
-## `metrics`
-
-<div align="center">
-
-
-<img src="metrics.svg" alt="Detailed GitHub metrics" width="98%" />
-
-</div>
 
 <br>
 
