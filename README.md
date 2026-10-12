@@ -91,7 +91,11 @@ Currently   : Building practical projects and strengthening fundamentals
 </p>
 
 </div>
+---
 
+[![TryHackMe Stats](./assets/tryhackme-card.svg)](https://tryhackme.com/p/0xKernal)
+
+---
 ## `github-stats`
 
 <div align="center">
