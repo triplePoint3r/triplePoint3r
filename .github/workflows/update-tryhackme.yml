@@ -42,4 +42,3 @@ jobs:
             git commit -m "chore: update TryHackMe card"
             git push
           fi
-```
