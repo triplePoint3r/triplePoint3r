@@ -101,17 +101,15 @@ Currently   : Building practical projects and strengthening fundamentals
 
 <div align="center">
 
-</a>
 <a href="https://github.com/triplePoint3r">
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=triplePoint3r&layout=compact&langs_count=6&title_color=00FF99&bg_color=0D1117&text_color=C9D1D9&hide_border=true"/>
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=triplePoint3r&layout=compact&langs_count=6&title_color=00FF99&bg_color=0D1117&text_color=C9D1D9&hide_border=true"
+    alt="Most used languages"
+  />
 </a>
 
-<br/>
-
-
-<br/>
-
-
+</div>
 
 <br>
 
